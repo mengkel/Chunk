@@ -1,2 +1,2 @@
 # Chunk
-A model of depressing neutro star
+A model of decompressing neutron star
